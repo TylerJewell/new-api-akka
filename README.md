@@ -43,9 +43,9 @@ the count on the line below it, and the answers on the line below that.
 
 ## What it took to build
 
-⏱️ **28.3 hours** from the first command to the published repository, **1.4** of them active<br>
-💬 **628** exchanges with the model<br>
-✍️ **418,812** tokens written by the model, **127,999,235** counting everything sent and re-sent<br>
+⏱️ **28.4 hours** from the first command to the published repository, **1.5** of them active<br>
+💬 **678** exchanges with the model<br>
+✍️ **452,064** tokens written by the model, **143,315,704** counting everything sent and re-sent<br>
 🙋 **0** questions to a human<br>
 🧪 **44** tests
 
